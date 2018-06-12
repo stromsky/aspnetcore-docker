@@ -1,1 +1,1 @@
-FROM microsoft/aspnetcore:2.0
+FROM microsoft/dotnet:2.1-runtime-alpine
